@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment...1</string>
+    <string name="submit">Get Suggestion</string>
+    <string name="reset">Reset</string>
+    <string name="name">Time of Day</string>
+    <string name="display">Suggestion will appear here</string>
+    <string name="invalid_input_msg">Please enter a valid time of day (Morning, Afternoon, etc.)</string>
+</resources>
